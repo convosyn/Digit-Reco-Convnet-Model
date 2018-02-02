@@ -1,5 +1,5 @@
 # Digit Recognition model
-It is the base model used in the Digit recognition app for android
+It is the base model used in the [Digit recognition app](https://github.com/convosyn/digit-recognition-app) for android
 
 ## It can be implemented in any app in backend server.
 1. Set the image path to `to_predict` folder
